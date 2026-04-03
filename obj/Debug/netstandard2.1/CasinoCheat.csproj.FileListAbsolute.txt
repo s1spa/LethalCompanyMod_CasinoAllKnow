@@ -1,0 +1,10 @@
+D:\Projects\Shit\LCmod\CasinoCheat\obj\Debug\netstandard2.1\CasinoCheat.csproj.AssemblyReference.cache
+D:\Projects\Shit\LCmod\CasinoCheat\obj\Debug\netstandard2.1\CasinoCheat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Shit\LCmod\CasinoCheat\obj\Debug\netstandard2.1\CasinoCheat.AssemblyInfoInputs.cache
+D:\Projects\Shit\LCmod\CasinoCheat\obj\Debug\netstandard2.1\CasinoCheat.AssemblyInfo.cs
+D:\Projects\Shit\LCmod\CasinoCheat\obj\Debug\netstandard2.1\CasinoCheat.csproj.CoreCompileInputs.cache
+D:\Projects\Shit\LCmod\CasinoCheat\bin\Debug\netstandard2.1\CasinoCheat.deps.json
+D:\Projects\Shit\LCmod\CasinoCheat\bin\Debug\netstandard2.1\CasinoCheat.dll
+D:\Projects\Shit\LCmod\CasinoCheat\bin\Debug\netstandard2.1\CasinoCheat.pdb
+D:\Projects\Shit\LCmod\CasinoCheat\obj\Debug\netstandard2.1\CasinoCheat.dll
+D:\Projects\Shit\LCmod\CasinoCheat\obj\Debug\netstandard2.1\CasinoCheat.pdb
