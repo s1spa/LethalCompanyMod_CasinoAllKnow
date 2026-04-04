@@ -13,5 +13,7 @@ Alt+F8 — toggle on/off in-game
 LethalCasino by mrgrm7
 BepInEx 5.x
 Host only — only works when you are the host of the session. Clients with the original LethalCasino are unaffected.
-Installation:
+
+# Installation:
 Drop CasinoCheat.dll into BepInEx/plugins/CasinoCheat/.
+
